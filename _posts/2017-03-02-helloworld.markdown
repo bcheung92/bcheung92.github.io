@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Hello World"
-subtitle:   "it's the blog test"
+title:      "回归博客"
+subtitle:   ""
 date:       "2017-12-04 13:37"
 author:     "Bcheung"
 header-img: "img/post-bg-04.jpg"
 ---
 
-<p>This is just a blog test for my new blog</p>
+离毕业不远了，想要回归到博客，将研究生这几年的学习、生活做一做回顾以及记录。希望自己每天都好
 
-<p>And Happy 2016,Best wish to u all, and to myself </p>
+
