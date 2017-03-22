@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ennis Del Mar & Jack Twist"
 subtitle:   "Brokeback Mountain"
-date:       "2016-01-04 13:37"
+date:       "2017-03-22 17:19"
 author:     "Bcheung"
 header-img: "img/post-lf-01.jpg"
 ---
